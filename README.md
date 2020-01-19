@@ -19,11 +19,8 @@ As you solve the case study, you need to complete the following tasks:
         
  3. Recommendation Models
         1. Divide your data into training and testing dataset.
-
-        2. Build user-based and item-based models.
- 
+        2. Build user-based and item-based models. 
         3. Determine how similar the first 10 users are to each other and visualise it.
-
         4. Compute and visualise the similarity between the first 10 beers.
         5. Compare the performance of the two models using test data and suggest the one that should be deployed.
         6. Give the names of the top 5 beers that you would recommend to the users 'cokes', 'genog' and 'giblet' using both the models.
