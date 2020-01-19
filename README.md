@@ -6,13 +6,16 @@ Description: Each record includes a beer's name and the user's name, along with 
 As you solve the case study, you need to complete the following tasks:  
 1. Data preparation  Choose only those beers that have at least N number of reviews. 
      a) Figure out an appropriate value of N using EDA; this may not have one correct answer, but you should not choose beers that have an extremely low number of ratings.
+     
 2. Data exploration
      a) What are the unique values of ratings?
+
      b) Visualise the rating values and notice:
         1. The average beer ratings
         2. The average user ratings
         3. The average number of ratings given to the beers
         4. The average number of ratings given by the users
+        
  3. Recommendation Models
         1. Divide your data into training and testing dataset.
         2. Build user-based and item-based models.
